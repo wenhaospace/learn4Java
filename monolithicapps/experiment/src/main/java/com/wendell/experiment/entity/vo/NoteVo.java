@@ -11,9 +11,6 @@ public class NoteVo {
     private String description;
 
 
-    private String createTime;
-
-
     private String url;
 
 }
