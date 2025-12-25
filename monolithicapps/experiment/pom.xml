@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wendell</groupId>
-	<artifactId>experiment</artifactId>
+	<artifactId>yulao-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>experiment</name>
-	<description>experiment project for Spring Boot</description>
+	<name>yulao-system</name>
+	<description>个人项目管理系统</description>
 	<url/>
 	<licenses>
 		<license/>
